@@ -14,4 +14,4 @@ npm install discord.js@13.2.0
 By completing these installation steps, you will have the necessary dependencies to run the NSFW-Bot successfully.
 <h1 align="center"><strong>API</strong></h1>
 
-**Also the NSFW-Bot relies on an external API. You can access the API using the following endpoint: https://api-popcord.vercel.app. This API provides the necessary functionality for the NSFW features implemented in the Discord bot.**
+**Also the NSFW-Bot relies on an external API. You can access the API using the following endpoint: `https://api-popcord.vercel.app` This API provides the necessary functionality for the NSFW features implemented in the Discord bot.**
