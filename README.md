@@ -20,7 +20,7 @@ By completing these installation steps, you will have the necessary dependencies
 
 <h1 align="center"><strong>Final Instructions</strong></h1>
 
-To complete the setup of your Discord bot, please add your token in the designated location. Locate the line of code `client.login('Discord-Token-Here');` and replace `Discord-Token-Here` with your actual Discord bot token. This token serves as a unique identifier for your bot and allows it to connect to Discord's servers.
+To complete the setup of your Discord bot, you will need to locate the line of code where `client.login('Discord-Token-Here');` is, and replace `Discord-Token-Here` with your actual Discord bot token. This token serves as a unique identifier for your bot and allows it to connect to Discord's servers.
 
 Once you have replaced `Discord-Token-Here` with your token, your bot will be ready to authenticate and operate within Discord. Make sure to keep your token confidential and avoid sharing it publicly or committing it to version control.
 
